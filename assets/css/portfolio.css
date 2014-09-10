@@ -1,0 +1,88 @@
+table {
+
+}
+.portfolio {
+  max-width: none;
+  width: 700px;
+  margin-bottom: 18px;
+}
+
+.itemList {
+    /*float: right;*/
+    width: 700px;
+    height: 240px;
+	margin:auto;
+/*    margin: 0px 10px 0px 0px;*/
+    overflow: hidden;
+}
+
+.itemList table {
+  max-width: none;
+  width: 700px;
+  margin-bottom: 18px;
+}
+
+.itemList img {
+    border: 0px;
+	width: 64px;
+	padding: 4px;
+}
+
+.itemDetail {
+    background-color: #fff;
+    /*float: right;*/
+	text-align: center;
+    width: 700px;
+    height: 260px;
+	margin:auto;
+   /* margin: 0px 10px 0px 0px; */   
+    overflow: hidden;
+	padding-top: 10px;
+}
+
+.itemDetail > table{
+    border: 0px;
+    padding: 0px;
+    margin-top: -200px;
+    margin-left: -10500px;
+    width: 11200px;
+    height: 400px;
+}
+
+.itemDetail td {
+    padding: 0px;
+    text-align: left;
+    vertical-align: top;
+    width: 700px;
+    height: 260px;
+}
+
+.clear {
+	clear: both;
+}
+
+.appstore {
+	margin-top: -65px;
+	height: 50px;
+	float: right;
+}
+
+#Features {
+	margin-top: -10px;
+}
+
+#Features li {
+    float: left;
+    display: block;
+}
+
+#FeaturesCol1 {
+    width: 50%;
+    height: auto;
+}
+
+#FeaturesCol2 {
+    width: 50%;
+    height: auto;
+}
+
